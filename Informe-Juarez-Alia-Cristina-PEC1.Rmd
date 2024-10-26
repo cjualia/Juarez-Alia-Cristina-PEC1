@@ -1,0 +1,6 @@
+---
+title: "Exploración de datos metabolómicos"
+author: "Cristina Juárez Alía"
+date: "`r Sys.Date()`"
+output: html_document
+---
